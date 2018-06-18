@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-    <title>Le portail des JEM</title>
+    <title>Le portes de l'enfer</title>
     <meta name="robots" content="noindex, nofollow">
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
     <meta charset="utf-8" />
